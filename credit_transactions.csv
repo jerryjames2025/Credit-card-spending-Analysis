@@ -1,0 +1,1501 @@
+Customer_ID,Amount,Merchant_Category,Transaction_Date,Payment_Method
+1231,2142.21,Shopping,2023-01-01,Net Banking
+1178,1125.92,Travel,2023-01-02,Net Banking
+1063,2125.07,Fuel,2023-01-03,Credit Card
+1485,2238.07,Travel,2023-01-04,Net Banking
+1116,203.02,Restaurants,2023-01-05,Net Banking
+1191,2214.49,Fuel,2023-01-06,Net Banking
+1062,1148.38,Shopping,2023-01-07,UPI
+1256,1300.56,Fuel,2023-01-08,Credit Card
+1483,1585.15,Restaurants,2023-01-09,Net Banking
+1007,2319.64,Online Services,2023-01-10,Credit Card
+1155,96.83,Travel,2023-01-11,Credit Card
+1092,1218.27,Restaurants,2023-01-12,Credit Card
+1470,1734.92,Online Services,2023-01-13,Net Banking
+1014,1820.63,Fuel,2023-01-14,Net Banking
+1455,1746.7,Fuel,2023-01-15,Credit Card
+1229,379.37,Restaurants,2023-01-16,UPI
+1086,783.52,Shopping,2023-01-17,Credit Card
+1133,928.85,Fuel,2023-01-18,UPI
+1183,2020.87,Shopping,2023-01-19,Credit Card
+1386,732.96,Shopping,2023-01-20,Credit Card
+1062,566.23,Shopping,2023-01-21,Credit Card
+1219,2395.75,Groceries,2023-01-22,Net Banking
+1405,71.72,Online Services,2023-01-23,UPI
+1246,2494.66,Online Services,2023-01-24,UPI
+1230,1708.21,Fuel,2023-01-25,Credit Card
+1079,2079.75,Fuel,2023-01-26,Net Banking
+1149,771.82,Shopping,2023-01-27,Net Banking
+1138,85.07,Groceries,2023-01-28,UPI
+1471,1857.78,Shopping,2023-01-29,Net Banking
+1314,2093.65,Groceries,2023-01-30,UPI
+1376,1864.17,Shopping,2023-01-31,UPI
+1423,399.98,Travel,2023-02-01,UPI
+1389,1895.9,Travel,2023-02-02,Net Banking
+1065,1933.86,Restaurants,2023-02-03,UPI
+1013,1663.42,Shopping,2023-02-04,UPI
+1213,1926.98,Fuel,2023-02-05,Credit Card
+1474,2122.51,Online Services,2023-02-06,UPI
+1242,1553.33,Restaurants,2023-02-07,UPI
+1493,267.08,Fuel,2023-02-08,Credit Card
+1213,1244.69,Travel,2023-02-09,Credit Card
+1181,240.24,Shopping,2023-02-10,Net Banking
+1338,1048.48,Restaurants,2023-02-11,UPI
+1485,1047.41,Shopping,2023-02-12,Net Banking
+1173,211.72,Travel,2023-02-13,Net Banking
+1160,904.61,Restaurants,2023-02-14,Credit Card
+1164,321.95,Travel,2023-02-15,Net Banking
+1465,2030.18,Groceries,2023-02-16,UPI
+1483,2371.84,Travel,2023-02-17,Credit Card
+1497,227.18,Shopping,2023-02-18,UPI
+1188,2390.03,Online Services,2023-02-19,UPI
+1395,1330.31,Travel,2023-02-20,Credit Card
+1191,783.94,Fuel,2023-02-21,UPI
+1405,238.31,Online Services,2023-02-22,Credit Card
+1308,1276.53,Groceries,2023-02-23,UPI
+1256,1996.56,Restaurants,2023-02-24,Credit Card
+1183,1782.36,Restaurants,2023-02-25,Net Banking
+1117,173.05,Online Services,2023-02-26,UPI
+1282,228.61,Restaurants,2023-02-27,Credit Card
+1196,1037.04,Travel,2023-02-28,UPI
+1034,773.46,Online Services,2023-03-01,UPI
+1052,619.34,Shopping,2023-03-02,UPI
+1112,738.46,Travel,2023-03-03,Credit Card
+1252,2018.53,Travel,2023-03-04,Net Banking
+1082,2326.61,Travel,2023-03-05,Net Banking
+1232,1042.5,Shopping,2023-03-06,Net Banking
+1227,2269.97,Groceries,2023-03-07,Credit Card
+1233,837.66,Fuel,2023-03-08,Net Banking
+1221,1217.27,Restaurants,2023-03-09,Credit Card
+1436,603.77,Online Services,2023-03-10,UPI
+1413,1619.17,Groceries,2023-03-11,UPI
+1422,2448.5,Online Services,2023-03-12,Net Banking
+1042,1528.56,Restaurants,2023-03-13,Credit Card
+1021,926.64,Shopping,2023-03-14,UPI
+1042,1637.15,Travel,2023-03-15,Credit Card
+1397,351.16,Travel,2023-03-16,Credit Card
+1113,2227.21,Shopping,2023-03-17,UPI
+1105,1282.56,Groceries,2023-03-18,Credit Card
+1192,1150.91,Groceries,2023-03-19,UPI
+1017,1485.37,Online Services,2023-03-20,UPI
+1120,1580.72,Shopping,2023-03-21,UPI
+1393,225.85,Groceries,2023-03-22,Credit Card
+1425,1722.41,Shopping,2023-03-23,UPI
+1129,642.73,Restaurants,2023-03-24,Credit Card
+1130,1799.18,Travel,2023-03-25,UPI
+1060,2065.21,Travel,2023-03-26,UPI
+1048,2019.7,Travel,2023-03-27,Net Banking
+1029,1403.63,Shopping,2023-03-28,Net Banking
+1097,1324.42,Shopping,2023-03-29,Net Banking
+1010,400.05,Online Services,2023-03-30,Credit Card
+1242,1949.6,Travel,2023-03-31,Credit Card
+1314,714.95,Online Services,2023-04-01,UPI
+1444,1266.9,Travel,2023-04-02,UPI
+1232,746.47,Online Services,2023-04-03,UPI
+1277,377.88,Online Services,2023-04-04,UPI
+1284,1592.42,Restaurants,2023-04-05,Credit Card
+1203,183.11,Online Services,2023-04-06,UPI
+1247,1884.18,Shopping,2023-04-07,UPI
+1290,828.09,Online Services,2023-04-08,Net Banking
+1264,50.33,Travel,2023-04-09,UPI
+1443,1302.27,Online Services,2023-04-10,UPI
+1214,164.79,Groceries,2023-04-11,UPI
+1200,726.62,Fuel,2023-04-12,Credit Card
+1433,1782.09,Travel,2023-04-13,Net Banking
+1079,203.59,Groceries,2023-04-14,UPI
+1401,2106.38,Travel,2023-04-15,UPI
+1444,59.36,Shopping,2023-04-16,Net Banking
+1343,654.72,Fuel,2023-04-17,UPI
+1344,1865.21,Fuel,2023-04-18,Credit Card
+1173,824.86,Shopping,2023-04-19,UPI
+1467,299.64,Fuel,2023-04-20,Credit Card
+1069,932.57,Shopping,2023-04-21,Credit Card
+1416,712.46,Groceries,2023-04-22,UPI
+1428,2114.64,Restaurants,2023-04-23,Net Banking
+1449,817.7,Travel,2023-04-24,Credit Card
+1087,1982.88,Shopping,2023-04-25,Net Banking
+1101,2235.09,Travel,2023-04-26,UPI
+1008,1112.85,Groceries,2023-04-27,Credit Card
+1333,2279.36,Restaurants,2023-04-28,UPI
+1200,974.43,Groceries,2023-04-29,Net Banking
+1087,2411.99,Fuel,2023-04-30,UPI
+1043,268.76,Travel,2023-05-01,UPI
+1385,1733.2,Restaurants,2023-05-02,Credit Card
+1109,1259.84,Fuel,2023-05-03,UPI
+1435,999.74,Restaurants,2023-05-04,UPI
+1408,1600.14,Fuel,2023-05-05,UPI
+1483,1774.45,Groceries,2023-05-06,Credit Card
+1152,60.69,Shopping,2023-05-07,Net Banking
+1017,459.04,Travel,2023-05-08,Net Banking
+1133,1796.96,Online Services,2023-05-09,UPI
+1148,1682.64,Online Services,2023-05-10,Credit Card
+1277,2416.82,Groceries,2023-05-11,UPI
+1232,1914.54,Travel,2023-05-12,Net Banking
+1314,2379.39,Travel,2023-05-13,Credit Card
+1415,1771.22,Groceries,2023-05-14,Net Banking
+1366,780.23,Travel,2023-05-15,Net Banking
+1228,308.14,Shopping,2023-05-16,Credit Card
+1139,1965.47,Groceries,2023-05-17,Credit Card
+1436,1628.17,Shopping,2023-05-18,UPI
+1399,168.06,Travel,2023-05-19,UPI
+1211,932.12,Groceries,2023-05-20,Net Banking
+1391,2394.16,Travel,2023-05-21,Credit Card
+1499,1275.98,Groceries,2023-05-22,Credit Card
+1028,1110.19,Travel,2023-05-23,UPI
+1051,1171.36,Shopping,2023-05-24,Net Banking
+1491,561.76,Shopping,2023-05-25,Net Banking
+1442,953.33,Travel,2023-05-26,UPI
+1261,956.04,Groceries,2023-05-27,Credit Card
+1261,178.27,Online Services,2023-05-28,UPI
+1350,1930.54,Shopping,2023-05-29,UPI
+1352,1070.44,Shopping,2023-05-30,UPI
+1008,2064.34,Fuel,2023-05-31,UPI
+1320,2133.35,Online Services,2023-06-01,Credit Card
+1138,569.39,Travel,2023-06-02,UPI
+1038,1660.52,Groceries,2023-06-03,Credit Card
+1111,1207.09,Fuel,2023-06-04,UPI
+1480,2206.38,Travel,2023-06-05,Net Banking
+1368,578.56,Restaurants,2023-06-06,Credit Card
+1220,1710.64,Shopping,2023-06-07,Net Banking
+1337,1538.99,Restaurants,2023-06-08,UPI
+1223,773.49,Shopping,2023-06-09,UPI
+1136,384.67,Shopping,2023-06-10,UPI
+1256,1646.52,Restaurants,2023-06-11,Credit Card
+1360,1859.56,Restaurants,2023-06-12,Net Banking
+1409,823.29,Travel,2023-06-13,Credit Card
+1329,1629.84,Fuel,2023-06-14,Credit Card
+1450,1018.07,Fuel,2023-06-15,UPI
+1463,1797.36,Restaurants,2023-06-16,Net Banking
+1434,538.08,Travel,2023-06-17,UPI
+1451,2231.03,Fuel,2023-06-18,Credit Card
+1049,754.15,Travel,2023-06-19,UPI
+1292,951.08,Travel,2023-06-20,Net Banking
+1382,192.33,Shopping,2023-06-21,UPI
+1324,323.2,Fuel,2023-06-22,Net Banking
+1078,1313.86,Fuel,2023-06-23,Net Banking
+1105,705.6,Shopping,2023-06-24,UPI
+1169,2096.93,Restaurants,2023-06-25,Credit Card
+1217,86.0,Shopping,2023-06-26,UPI
+1378,978.78,Fuel,2023-06-27,Credit Card
+1119,876.5,Fuel,2023-06-28,Credit Card
+1190,97.35,Restaurants,2023-06-29,UPI
+1255,354.7,Shopping,2023-06-30,Credit Card
+1370,1063.42,Groceries,2023-07-01,Credit Card
+1266,1257.52,Groceries,2023-07-02,UPI
+1149,1040.51,Restaurants,2023-07-03,UPI
+1164,1350.8,Shopping,2023-07-04,UPI
+1140,1508.07,Shopping,2023-07-05,Credit Card
+1347,74.31,Travel,2023-07-06,Net Banking
+1488,1187.03,Fuel,2023-07-07,Credit Card
+1258,2410.57,Online Services,2023-07-08,Net Banking
+1374,1321.63,Restaurants,2023-07-09,UPI
+1269,1709.98,Online Services,2023-07-10,Net Banking
+1181,814.07,Online Services,2023-07-11,UPI
+1160,1946.28,Restaurants,2023-07-12,UPI
+1351,1943.66,Shopping,2023-07-13,Net Banking
+1400,1327.18,Restaurants,2023-07-14,UPI
+1288,2441.23,Online Services,2023-07-15,Net Banking
+1288,357.6,Fuel,2023-07-16,UPI
+1380,91.52,Fuel,2023-07-17,Credit Card
+1226,1936.89,Fuel,2023-07-18,Credit Card
+1011,2027.53,Shopping,2023-07-19,UPI
+1010,344.51,Groceries,2023-07-20,UPI
+1271,700.68,Restaurants,2023-07-21,Net Banking
+1273,93.0,Fuel,2023-07-22,Credit Card
+1424,768.61,Restaurants,2023-07-23,Net Banking
+1402,1944.2,Fuel,2023-07-24,UPI
+1183,1319.0,Shopping,2023-07-25,UPI
+1457,902.83,Groceries,2023-07-26,Net Banking
+1153,960.76,Groceries,2023-07-27,UPI
+1488,53.32,Fuel,2023-07-28,Credit Card
+1315,784.51,Shopping,2023-07-29,Net Banking
+1334,1633.82,Travel,2023-07-30,Credit Card
+1124,2436.78,Restaurants,2023-07-31,Credit Card
+1473,2125.3,Restaurants,2023-08-01,Credit Card
+1114,107.81,Online Services,2023-08-02,Net Banking
+1278,2251.47,Shopping,2023-08-03,UPI
+1500,1968.84,Online Services,2023-08-04,Credit Card
+1414,1961.92,Fuel,2023-08-05,Credit Card
+1468,1172.09,Online Services,2023-08-06,Credit Card
+1213,1025.11,Groceries,2023-08-07,UPI
+1172,792.14,Restaurants,2023-08-08,UPI
+1288,210.95,Online Services,2023-08-09,Net Banking
+1435,609.18,Groceries,2023-08-10,UPI
+1174,654.18,Shopping,2023-08-11,Net Banking
+1113,1235.99,Online Services,2023-08-12,Net Banking
+1376,1881.24,Fuel,2023-08-13,Net Banking
+1405,1210.83,Fuel,2023-08-14,Net Banking
+1483,191.72,Fuel,2023-08-15,Net Banking
+1122,2396.59,Restaurants,2023-08-16,Credit Card
+1032,2359.67,Online Services,2023-08-17,UPI
+1222,1973.71,Shopping,2023-08-18,Credit Card
+1119,2478.75,Online Services,2023-08-19,Net Banking
+1039,1383.98,Restaurants,2023-08-20,UPI
+1497,2408.78,Groceries,2023-08-21,Credit Card
+1268,235.23,Restaurants,2023-08-22,Credit Card
+1233,945.92,Fuel,2023-08-23,Net Banking
+1431,602.18,Groceries,2023-08-24,Credit Card
+1018,529.79,Fuel,2023-08-25,Credit Card
+1149,394.97,Travel,2023-08-26,Credit Card
+1397,1574.91,Restaurants,2023-08-27,Credit Card
+1149,1964.24,Restaurants,2023-08-28,Credit Card
+1126,1466.83,Shopping,2023-08-29,Net Banking
+1392,410.06,Online Services,2023-08-30,Net Banking
+1302,2037.25,Groceries,2023-08-31,Credit Card
+1360,1608.09,Groceries,2023-09-01,Net Banking
+1238,1001.01,Shopping,2023-09-02,Net Banking
+1135,1701.62,Shopping,2023-09-03,UPI
+1151,686.77,Online Services,2023-09-04,Credit Card
+1236,895.72,Fuel,2023-09-05,Net Banking
+1224,2297.84,Online Services,2023-09-06,Net Banking
+1203,761.74,Restaurants,2023-09-07,Credit Card
+1256,1201.47,Fuel,2023-09-08,UPI
+1086,2230.85,Travel,2023-09-09,Credit Card
+1150,1783.92,Online Services,2023-09-10,UPI
+1235,202.4,Shopping,2023-09-11,Credit Card
+1345,410.89,Fuel,2023-09-12,Credit Card
+1022,69.21,Online Services,2023-09-13,Credit Card
+1348,1595.76,Groceries,2023-09-14,Credit Card
+1285,1146.8,Travel,2023-09-15,UPI
+1269,378.97,Restaurants,2023-09-16,UPI
+1466,2396.94,Groceries,2023-09-17,Net Banking
+1258,1347.67,Groceries,2023-09-18,Credit Card
+1029,642.64,Travel,2023-09-19,UPI
+1213,1276.48,Restaurants,2023-09-20,UPI
+1463,1715.07,Shopping,2023-09-21,UPI
+1436,236.79,Fuel,2023-09-22,Credit Card
+1283,723.02,Restaurants,2023-09-23,Net Banking
+1050,2027.07,Online Services,2023-09-24,UPI
+1095,1176.18,Groceries,2023-09-25,Credit Card
+1463,1389.11,Online Services,2023-09-26,UPI
+1499,1110.4,Shopping,2023-09-27,UPI
+1407,157.55,Online Services,2023-09-28,Net Banking
+1088,456.09,Restaurants,2023-09-29,UPI
+1044,1141.58,Online Services,2023-09-30,UPI
+1461,562.5,Shopping,2023-10-01,Credit Card
+1278,172.45,Shopping,2023-10-02,Credit Card
+1171,2116.94,Shopping,2023-10-03,Net Banking
+1421,2453.92,Restaurants,2023-10-04,Credit Card
+1189,1993.2,Shopping,2023-10-05,Credit Card
+1353,2141.77,Groceries,2023-10-06,Net Banking
+1184,642.84,Shopping,2023-10-07,UPI
+1003,2403.54,Online Services,2023-10-08,Net Banking
+1191,532.47,Fuel,2023-10-09,Credit Card
+1118,2381.0,Online Services,2023-10-10,Net Banking
+1019,2487.31,Fuel,2023-10-11,UPI
+1023,1793.72,Online Services,2023-10-12,Net Banking
+1413,2453.8,Restaurants,2023-10-13,Credit Card
+1030,1445.37,Online Services,2023-10-14,Credit Card
+1295,685.88,Restaurants,2023-10-15,Net Banking
+1108,1120.64,Restaurants,2023-10-16,UPI
+1367,1504.22,Shopping,2023-10-17,Net Banking
+1281,229.05,Groceries,2023-10-18,UPI
+1128,1574.74,Fuel,2023-10-19,UPI
+1229,2453.89,Shopping,2023-10-20,Net Banking
+1111,515.76,Shopping,2023-10-21,UPI
+1136,1991.86,Restaurants,2023-10-22,Credit Card
+1362,2274.35,Restaurants,2023-10-23,Net Banking
+1186,2362.07,Fuel,2023-10-24,UPI
+1144,2402.33,Online Services,2023-10-25,Credit Card
+1072,1327.58,Online Services,2023-10-26,Net Banking
+1129,2444.4,Shopping,2023-10-27,Credit Card
+1364,1905.41,Travel,2023-10-28,Credit Card
+1261,446.1,Travel,2023-10-29,Credit Card
+1003,1218.41,Online Services,2023-10-30,UPI
+1449,1809.91,Travel,2023-10-31,Net Banking
+1388,655.98,Online Services,2023-11-01,Net Banking
+1104,1619.51,Restaurants,2023-11-02,UPI
+1483,1683.17,Shopping,2023-11-03,Net Banking
+1224,448.61,Groceries,2023-11-04,Credit Card
+1320,1434.46,Shopping,2023-11-05,Net Banking
+1362,1940.49,Online Services,2023-11-06,UPI
+1354,1272.29,Online Services,2023-11-07,Credit Card
+1491,79.65,Shopping,2023-11-08,UPI
+1473,72.14,Fuel,2023-11-09,Credit Card
+1010,924.72,Online Services,2023-11-10,Credit Card
+1405,2319.18,Travel,2023-11-11,Net Banking
+1384,610.26,Travel,2023-11-12,Credit Card
+1302,1604.19,Online Services,2023-11-13,UPI
+1231,594.09,Online Services,2023-11-14,Net Banking
+1219,838.09,Fuel,2023-11-15,UPI
+1411,2127.7,Travel,2023-11-16,Credit Card
+1066,1835.71,Online Services,2023-11-17,UPI
+1425,283.73,Online Services,2023-11-18,UPI
+1112,1100.32,Fuel,2023-11-19,Credit Card
+1013,121.47,Fuel,2023-11-20,Net Banking
+1393,1228.18,Shopping,2023-11-21,UPI
+1500,1672.96,Fuel,2023-11-22,Credit Card
+1420,340.33,Groceries,2023-11-23,Net Banking
+1086,757.77,Travel,2023-11-24,Net Banking
+1234,1024.7,Shopping,2023-11-25,Net Banking
+1090,2302.85,Groceries,2023-11-26,UPI
+1314,2483.47,Online Services,2023-11-27,UPI
+1054,160.03,Online Services,2023-11-28,UPI
+1012,1914.47,Shopping,2023-11-29,Net Banking
+1209,960.72,Fuel,2023-11-30,UPI
+1462,1011.52,Online Services,2023-12-01,Credit Card
+1014,1897.95,Restaurants,2023-12-02,UPI
+1121,2300.14,Shopping,2023-12-03,UPI
+1418,2379.78,Groceries,2023-12-04,Net Banking
+1437,1463.95,Shopping,2023-12-05,UPI
+1377,924.95,Travel,2023-12-06,Credit Card
+1020,1979.5,Fuel,2023-12-07,Net Banking
+1075,664.95,Fuel,2023-12-08,Credit Card
+1400,1431.98,Shopping,2023-12-09,Net Banking
+1243,928.52,Online Services,2023-12-10,Net Banking
+1223,1658.75,Online Services,2023-12-11,UPI
+1070,638.98,Restaurants,2023-12-12,Credit Card
+1312,519.4,Restaurants,2023-12-13,Net Banking
+1211,2299.69,Fuel,2023-12-14,UPI
+1101,299.42,Restaurants,2023-12-15,Net Banking
+1186,1289.6,Groceries,2023-12-16,Net Banking
+1132,591.09,Restaurants,2023-12-17,Net Banking
+1111,145.38,Groceries,2023-12-18,Net Banking
+1381,138.25,Restaurants,2023-12-19,Net Banking
+1132,479.29,Fuel,2023-12-20,Net Banking
+1020,2173.59,Fuel,2023-12-21,UPI
+1394,742.07,Groceries,2023-12-22,Net Banking
+1024,2378.62,Shopping,2023-12-23,Credit Card
+1227,1474.97,Fuel,2023-12-24,UPI
+1154,1119.7,Shopping,2023-12-25,Credit Card
+1293,1471.22,Online Services,2023-12-26,Net Banking
+1230,1315.91,Groceries,2023-12-27,Credit Card
+1469,1909.0,Fuel,2023-12-28,Net Banking
+1310,742.12,Travel,2023-12-29,Net Banking
+1488,914.97,Online Services,2023-12-30,UPI
+1359,2240.53,Shopping,2023-12-31,UPI
+1405,2368.82,Fuel,2024-01-01,Net Banking
+1202,2236.77,Groceries,2024-01-02,UPI
+1038,1077.65,Restaurants,2024-01-03,Credit Card
+1430,1961.9,Travel,2024-01-04,UPI
+1260,1217.02,Shopping,2024-01-05,UPI
+1188,1268.97,Online Services,2024-01-06,Credit Card
+1057,551.47,Groceries,2024-01-07,UPI
+1429,1498.27,Travel,2024-01-08,Net Banking
+1020,506.03,Groceries,2024-01-09,Credit Card
+1273,862.33,Fuel,2024-01-10,Net Banking
+1119,2144.82,Restaurants,2024-01-11,Credit Card
+1071,557.34,Online Services,2024-01-12,Net Banking
+1004,224.34,Groceries,2024-01-13,Net Banking
+1221,219.07,Shopping,2024-01-14,UPI
+1014,2354.92,Fuel,2024-01-15,Net Banking
+1003,1291.96,Fuel,2024-01-16,UPI
+1216,1053.06,Online Services,2024-01-17,Credit Card
+1229,2036.65,Fuel,2024-01-18,Net Banking
+1336,2097.77,Shopping,2024-01-19,Net Banking
+1186,863.87,Groceries,2024-01-20,Credit Card
+1055,1749.36,Online Services,2024-01-21,Credit Card
+1500,1939.25,Fuel,2024-01-22,Net Banking
+1388,1653.89,Fuel,2024-01-23,Credit Card
+1376,421.41,Shopping,2024-01-24,UPI
+1254,2195.91,Restaurants,2024-01-25,Credit Card
+1024,1370.78,Restaurants,2024-01-26,Credit Card
+1162,742.06,Fuel,2024-01-27,Net Banking
+1158,1091.81,Groceries,2024-01-28,UPI
+1082,142.05,Online Services,2024-01-29,Credit Card
+1403,363.27,Fuel,2024-01-30,UPI
+1159,1925.59,Travel,2024-01-31,UPI
+1188,50.03,Online Services,2024-02-01,UPI
+1060,1070.59,Restaurants,2024-02-02,Net Banking
+1403,1330.15,Fuel,2024-02-03,Credit Card
+1305,183.85,Shopping,2024-02-04,Net Banking
+1319,2434.04,Travel,2024-02-05,Credit Card
+1366,604.01,Fuel,2024-02-06,Credit Card
+1211,795.29,Groceries,2024-02-07,Net Banking
+1406,794.66,Travel,2024-02-08,UPI
+1152,614.52,Fuel,2024-02-09,UPI
+1109,53.61,Groceries,2024-02-10,Credit Card
+1076,1836.89,Travel,2024-02-11,Net Banking
+1030,2418.77,Groceries,2024-02-12,UPI
+1314,599.52,Groceries,2024-02-13,UPI
+1486,1674.47,Travel,2024-02-14,Credit Card
+1117,1867.65,Travel,2024-02-15,Credit Card
+1415,2128.64,Groceries,2024-02-16,Net Banking
+1356,1085.44,Restaurants,2024-02-17,Credit Card
+1192,792.18,Travel,2024-02-18,UPI
+1019,846.97,Fuel,2024-02-19,UPI
+1432,1795.92,Online Services,2024-02-20,UPI
+1173,2051.11,Shopping,2024-02-21,UPI
+1228,494.95,Groceries,2024-02-22,Net Banking
+1350,958.81,Groceries,2024-02-23,Net Banking
+1183,2259.75,Shopping,2024-02-24,Credit Card
+1113,2026.4,Restaurants,2024-02-25,Credit Card
+1183,2462.9,Shopping,2024-02-26,Credit Card
+1481,1897.91,Travel,2024-02-27,Net Banking
+1146,1013.33,Shopping,2024-02-28,UPI
+1319,1497.06,Groceries,2024-02-29,Credit Card
+1116,1669.48,Shopping,2024-03-01,UPI
+1113,242.22,Online Services,2024-03-02,Credit Card
+1251,1384.02,Fuel,2024-03-03,Credit Card
+1476,1787.84,Travel,2024-03-04,Credit Card
+1251,459.94,Shopping,2024-03-05,Credit Card
+1303,1962.55,Groceries,2024-03-06,Credit Card
+1459,1480.24,Fuel,2024-03-07,UPI
+1313,2382.94,Travel,2024-03-08,Credit Card
+1118,153.93,Groceries,2024-03-09,UPI
+1301,700.05,Restaurants,2024-03-10,Net Banking
+1161,1523.81,Online Services,2024-03-11,Credit Card
+1401,776.57,Restaurants,2024-03-12,UPI
+1198,1800.34,Online Services,2024-03-13,Net Banking
+1260,1909.56,Shopping,2024-03-14,Net Banking
+1148,301.16,Travel,2024-03-15,Net Banking
+1240,1308.94,Shopping,2024-03-16,UPI
+1047,1296.78,Online Services,2024-03-17,Credit Card
+1475,954.74,Online Services,2024-03-18,Credit Card
+1399,2335.67,Online Services,2024-03-19,UPI
+1198,2077.39,Fuel,2024-03-20,Credit Card
+1047,1758.16,Groceries,2024-03-21,UPI
+1078,1800.1,Travel,2024-03-22,Credit Card
+1124,1181.2,Shopping,2024-03-23,Net Banking
+1075,2306.44,Shopping,2024-03-24,Credit Card
+1359,1751.76,Restaurants,2024-03-25,UPI
+1137,1836.0,Online Services,2024-03-26,UPI
+1090,2161.14,Online Services,2024-03-27,Net Banking
+1400,721.48,Online Services,2024-03-28,UPI
+1325,2027.32,Shopping,2024-03-29,Credit Card
+1500,528.34,Restaurants,2024-03-30,Credit Card
+1061,896.09,Groceries,2024-03-31,Net Banking
+1138,872.25,Fuel,2024-04-01,UPI
+1050,2447.39,Travel,2024-04-02,Net Banking
+1259,2148.52,Groceries,2024-04-03,Credit Card
+1461,1767.87,Shopping,2024-04-04,Net Banking
+1107,1831.29,Fuel,2024-04-05,UPI
+1113,1427.08,Fuel,2024-04-06,Net Banking
+1350,2370.37,Fuel,2024-04-07,UPI
+1254,1265.83,Online Services,2024-04-08,UPI
+1118,982.27,Travel,2024-04-09,Credit Card
+1493,449.44,Shopping,2024-04-10,Credit Card
+1198,1976.2,Shopping,2024-04-11,Credit Card
+1337,1849.39,Fuel,2024-04-12,UPI
+1365,991.67,Shopping,2024-04-13,Net Banking
+1051,111.72,Travel,2024-04-14,UPI
+1245,2105.54,Travel,2024-04-15,Credit Card
+1403,77.97,Restaurants,2024-04-16,Credit Card
+1426,1774.06,Restaurants,2024-04-17,Net Banking
+1035,2427.13,Groceries,2024-04-18,Credit Card
+1302,1122.27,Travel,2024-04-19,Credit Card
+1410,625.68,Travel,2024-04-20,Credit Card
+1499,1776.93,Travel,2024-04-21,Net Banking
+1069,2051.96,Restaurants,2024-04-22,UPI
+1349,1388.75,Fuel,2024-04-23,Credit Card
+1320,2419.24,Fuel,2024-04-24,Net Banking
+1421,176.59,Shopping,2024-04-25,Credit Card
+1468,1286.75,Fuel,2024-04-26,Net Banking
+1049,1810.21,Online Services,2024-04-27,Credit Card
+1405,2163.47,Restaurants,2024-04-28,Net Banking
+1074,489.18,Travel,2024-04-29,Credit Card
+1192,2010.01,Fuel,2024-04-30,UPI
+1261,1404.13,Restaurants,2024-05-01,Credit Card
+1356,1021.56,Fuel,2024-05-02,Net Banking
+1070,372.7,Groceries,2024-05-03,Credit Card
+1090,2169.97,Travel,2024-05-04,UPI
+1260,435.32,Groceries,2024-05-05,Credit Card
+1126,808.98,Travel,2024-05-06,Net Banking
+1231,760.61,Restaurants,2024-05-07,Net Banking
+1295,2184.96,Shopping,2024-05-08,UPI
+1498,1698.12,Fuel,2024-05-09,Net Banking
+1419,2001.87,Fuel,2024-05-10,Credit Card
+1129,663.65,Online Services,2024-05-11,Credit Card
+1280,1580.94,Groceries,2024-05-12,Credit Card
+1313,1450.78,Fuel,2024-05-13,Net Banking
+1100,2090.43,Restaurants,2024-05-14,Credit Card
+1326,2269.91,Shopping,2024-05-15,Credit Card
+1297,79.78,Restaurants,2024-05-16,Credit Card
+1182,1701.35,Groceries,2024-05-17,UPI
+1174,177.0,Online Services,2024-05-18,Net Banking
+1316,1394.7,Fuel,2024-05-19,Net Banking
+1364,754.7,Restaurants,2024-05-20,Net Banking
+1188,801.6,Travel,2024-05-21,UPI
+1057,914.75,Shopping,2024-05-22,Net Banking
+1031,1572.17,Restaurants,2024-05-23,UPI
+1084,868.42,Shopping,2024-05-24,UPI
+1152,1845.11,Fuel,2024-05-25,Net Banking
+1473,1041.09,Travel,2024-05-26,Credit Card
+1036,217.47,Online Services,2024-05-27,Credit Card
+1213,1970.21,Online Services,2024-05-28,Net Banking
+1414,750.11,Travel,2024-05-29,Net Banking
+1408,1110.28,Shopping,2024-05-30,UPI
+1364,1729.34,Fuel,2024-05-31,Net Banking
+1106,864.52,Restaurants,2024-06-01,UPI
+1414,188.63,Travel,2024-06-02,Net Banking
+1342,966.11,Groceries,2024-06-03,Credit Card
+1220,2363.9,Shopping,2024-06-04,Credit Card
+1391,1622.25,Online Services,2024-06-05,Net Banking
+1163,1695.12,Travel,2024-06-06,UPI
+1439,1599.09,Online Services,2024-06-07,Credit Card
+1220,537.53,Shopping,2024-06-08,UPI
+1270,1074.92,Online Services,2024-06-09,Net Banking
+1120,1889.8,Travel,2024-06-10,Net Banking
+1394,298.36,Shopping,2024-06-11,Credit Card
+1336,730.74,Groceries,2024-06-12,Net Banking
+1400,726.98,Travel,2024-06-13,Credit Card
+1182,1108.45,Restaurants,2024-06-14,UPI
+1479,2451.9,Fuel,2024-06-15,Credit Card
+1106,215.38,Travel,2024-06-16,Credit Card
+1217,1320.82,Shopping,2024-06-17,UPI
+1205,489.44,Fuel,2024-06-18,Credit Card
+1070,2428.16,Travel,2024-06-19,Credit Card
+1044,327.59,Groceries,2024-06-20,Net Banking
+1329,1038.82,Groceries,2024-06-21,UPI
+1301,1857.82,Restaurants,2024-06-22,Credit Card
+1228,1776.16,Online Services,2024-06-23,UPI
+1184,1085.69,Fuel,2024-06-24,UPI
+1107,898.98,Shopping,2024-06-25,Credit Card
+1084,1024.15,Shopping,2024-06-26,Net Banking
+1338,697.48,Online Services,2024-06-27,UPI
+1250,553.07,Groceries,2024-06-28,Credit Card
+1363,1233.45,Groceries,2024-06-29,UPI
+1441,707.91,Travel,2024-06-30,Net Banking
+1021,754.28,Restaurants,2024-07-01,Net Banking
+1196,1659.05,Fuel,2024-07-02,Net Banking
+1178,2422.92,Restaurants,2024-07-03,Credit Card
+1417,1528.91,Restaurants,2024-07-04,Credit Card
+1475,238.6,Travel,2024-07-05,Net Banking
+1007,235.18,Restaurants,2024-07-06,Credit Card
+1070,2380.99,Online Services,2024-07-07,Net Banking
+1127,778.36,Travel,2024-07-08,Credit Card
+1399,275.56,Online Services,2024-07-09,Net Banking
+1466,1517.66,Travel,2024-07-10,UPI
+1160,1577.94,Restaurants,2024-07-11,Net Banking
+1248,1638.84,Online Services,2024-07-12,Net Banking
+1203,705.13,Online Services,2024-07-13,Credit Card
+1148,87.02,Online Services,2024-07-14,Credit Card
+1472,2414.29,Travel,2024-07-15,Credit Card
+1143,664.69,Shopping,2024-07-16,Credit Card
+1432,1706.26,Restaurants,2024-07-17,Credit Card
+1199,1781.24,Online Services,2024-07-18,Credit Card
+1405,1544.52,Fuel,2024-07-19,UPI
+1426,816.62,Shopping,2024-07-20,Net Banking
+1154,714.19,Fuel,2024-07-21,Net Banking
+1492,1514.29,Restaurants,2024-07-22,Net Banking
+1376,2171.93,Restaurants,2024-07-23,UPI
+1384,2369.5,Online Services,2024-07-24,Net Banking
+1142,309.47,Online Services,2024-07-25,UPI
+1313,429.33,Travel,2024-07-26,UPI
+1165,2364.6,Shopping,2024-07-27,UPI
+1314,1854.51,Shopping,2024-07-28,Net Banking
+1021,2213.33,Online Services,2024-07-29,UPI
+1082,546.45,Restaurants,2024-07-30,Net Banking
+1069,1489.59,Online Services,2024-07-31,Net Banking
+1131,1767.79,Restaurants,2024-08-01,Credit Card
+1087,1716.27,Restaurants,2024-08-02,Credit Card
+1218,1049.97,Online Services,2024-08-03,UPI
+1421,87.72,Groceries,2024-08-04,UPI
+1472,1478.17,Shopping,2024-08-05,Net Banking
+1305,670.1,Fuel,2024-08-06,UPI
+1403,1153.12,Restaurants,2024-08-07,UPI
+1371,2396.07,Restaurants,2024-08-08,Net Banking
+1345,1027.64,Groceries,2024-08-09,UPI
+1341,2107.51,Fuel,2024-08-10,UPI
+1384,511.92,Travel,2024-08-11,Net Banking
+1396,1697.53,Groceries,2024-08-12,Net Banking
+1445,2443.67,Fuel,2024-08-13,Credit Card
+1425,299.64,Groceries,2024-08-14,Net Banking
+1161,70.38,Restaurants,2024-08-15,Credit Card
+1178,1112.28,Shopping,2024-08-16,UPI
+1117,276.93,Groceries,2024-08-17,Net Banking
+1196,1883.54,Travel,2024-08-18,Net Banking
+1383,2290.64,Online Services,2024-08-19,Net Banking
+1490,1113.35,Fuel,2024-08-20,UPI
+1327,683.84,Groceries,2024-08-21,Credit Card
+1086,1114.29,Groceries,2024-08-22,UPI
+1289,1822.45,Travel,2024-08-23,UPI
+1081,72.18,Shopping,2024-08-24,Net Banking
+1152,1494.16,Groceries,2024-08-25,Credit Card
+1061,1552.56,Groceries,2024-08-26,UPI
+1061,1612.34,Shopping,2024-08-27,Net Banking
+1354,642.95,Travel,2024-08-28,UPI
+1028,1799.43,Fuel,2024-08-29,UPI
+1442,273.91,Fuel,2024-08-30,Net Banking
+1043,538.21,Groceries,2024-08-31,Net Banking
+1169,2199.8,Shopping,2024-09-01,Credit Card
+1423,1859.87,Groceries,2024-09-02,UPI
+1086,83.68,Online Services,2024-09-03,Net Banking
+1177,658.52,Fuel,2024-09-04,Net Banking
+1017,575.3,Restaurants,2024-09-05,Credit Card
+1098,713.48,Online Services,2024-09-06,Credit Card
+1454,656.52,Groceries,2024-09-07,Net Banking
+1494,203.19,Travel,2024-09-08,Credit Card
+1198,1174.4,Fuel,2024-09-09,Net Banking
+1098,1845.2,Restaurants,2024-09-10,UPI
+1065,1536.49,Online Services,2024-09-11,Credit Card
+1330,1698.54,Fuel,2024-09-12,UPI
+1341,248.82,Shopping,2024-09-13,UPI
+1005,2381.15,Travel,2024-09-14,UPI
+1002,2104.3,Online Services,2024-09-15,Net Banking
+1022,2022.47,Shopping,2024-09-16,UPI
+1112,2066.31,Groceries,2024-09-17,UPI
+1057,2335.14,Shopping,2024-09-18,UPI
+1066,1383.42,Online Services,2024-09-19,Net Banking
+1330,540.69,Online Services,2024-09-20,UPI
+1098,1561.12,Groceries,2024-09-21,UPI
+1144,1870.06,Shopping,2024-09-22,Credit Card
+1368,1857.9,Shopping,2024-09-23,Net Banking
+1435,1327.55,Groceries,2024-09-24,UPI
+1125,217.72,Shopping,2024-09-25,Credit Card
+1167,959.23,Fuel,2024-09-26,Net Banking
+1086,2305.88,Groceries,2024-09-27,Net Banking
+1076,1481.9,Travel,2024-09-28,Net Banking
+1344,1368.91,Online Services,2024-09-29,Net Banking
+1495,708.69,Travel,2024-09-30,Net Banking
+1424,952.7,Fuel,2024-10-01,Net Banking
+1294,2243.6,Fuel,2024-10-02,UPI
+1444,1682.83,Restaurants,2024-10-03,UPI
+1059,1979.1,Restaurants,2024-10-04,UPI
+1138,1163.15,Restaurants,2024-10-05,UPI
+1099,1594.11,Groceries,2024-10-06,Credit Card
+1192,658.54,Shopping,2024-10-07,UPI
+1243,1778.38,Fuel,2024-10-08,Net Banking
+1319,1097.62,Travel,2024-10-09,UPI
+1049,1134.24,Travel,2024-10-10,UPI
+1448,1640.84,Travel,2024-10-11,Net Banking
+1032,2343.89,Travel,2024-10-12,UPI
+1391,206.82,Restaurants,2024-10-13,UPI
+1277,2070.62,Travel,2024-10-14,UPI
+1020,766.34,Shopping,2024-10-15,Credit Card
+1154,1137.6,Restaurants,2024-10-16,UPI
+1383,103.69,Travel,2024-10-17,Net Banking
+1068,787.56,Groceries,2024-10-18,Net Banking
+1366,1281.45,Online Services,2024-10-19,UPI
+1372,187.63,Online Services,2024-10-20,UPI
+1214,1253.18,Online Services,2024-10-21,UPI
+1143,2321.42,Restaurants,2024-10-22,Net Banking
+1376,308.21,Travel,2024-10-23,Net Banking
+1232,1922.88,Fuel,2024-10-24,Credit Card
+1213,1053.69,Fuel,2024-10-25,Credit Card
+1079,1655.18,Fuel,2024-10-26,Credit Card
+1214,687.58,Restaurants,2024-10-27,Net Banking
+1116,440.76,Shopping,2024-10-28,Credit Card
+1092,443.13,Groceries,2024-10-29,UPI
+1270,222.71,Groceries,2024-10-30,UPI
+1411,504.83,Online Services,2024-10-31,Net Banking
+1381,1677.34,Online Services,2024-11-01,Credit Card
+1489,2210.14,Fuel,2024-11-02,UPI
+1168,2044.61,Fuel,2024-11-03,Net Banking
+1058,1728.58,Online Services,2024-11-04,Credit Card
+1284,320.56,Travel,2024-11-05,UPI
+1026,758.51,Shopping,2024-11-06,Credit Card
+1369,809.03,Shopping,2024-11-07,Net Banking
+1447,662.39,Shopping,2024-11-08,Credit Card
+1066,1311.76,Shopping,2024-11-09,Net Banking
+1409,1362.11,Online Services,2024-11-10,Credit Card
+1248,924.37,Groceries,2024-11-11,UPI
+1254,916.78,Online Services,2024-11-12,Net Banking
+1387,2079.96,Shopping,2024-11-13,Net Banking
+1456,1983.77,Online Services,2024-11-14,Net Banking
+1044,804.1,Shopping,2024-11-15,Credit Card
+1097,2288.78,Restaurants,2024-11-16,Credit Card
+1042,2384.4,Fuel,2024-11-17,UPI
+1500,850.52,Groceries,2024-11-18,Net Banking
+1227,918.34,Restaurants,2024-11-19,Net Banking
+1262,1288.8,Travel,2024-11-20,Credit Card
+1167,2355.75,Online Services,2024-11-21,Credit Card
+1436,2196.98,Travel,2024-11-22,UPI
+1279,301.29,Online Services,2024-11-23,UPI
+1089,1012.19,Fuel,2024-11-24,Credit Card
+1379,1405.76,Restaurants,2024-11-25,Net Banking
+1178,1282.67,Fuel,2024-11-26,UPI
+1427,524.96,Shopping,2024-11-27,Credit Card
+1403,2154.1,Fuel,2024-11-28,Credit Card
+1197,1708.5,Fuel,2024-11-29,Net Banking
+1307,2102.88,Shopping,2024-11-30,Credit Card
+1267,2153.97,Online Services,2024-12-01,Credit Card
+1268,1883.47,Shopping,2024-12-02,UPI
+1074,1126.07,Restaurants,2024-12-03,Credit Card
+1008,1545.84,Fuel,2024-12-04,Credit Card
+1408,442.9,Shopping,2024-12-05,UPI
+1476,1700.43,Fuel,2024-12-06,Net Banking
+1297,489.17,Restaurants,2024-12-07,Net Banking
+1164,1750.18,Travel,2024-12-08,UPI
+1485,612.52,Restaurants,2024-12-09,UPI
+1085,338.0,Groceries,2024-12-10,Net Banking
+1072,454.95,Groceries,2024-12-11,Net Banking
+1055,54.88,Groceries,2024-12-12,Net Banking
+1393,1810.91,Fuel,2024-12-13,Net Banking
+1047,1844.38,Online Services,2024-12-14,Net Banking
+1399,1311.59,Online Services,2024-12-15,UPI
+1432,445.34,Online Services,2024-12-16,Credit Card
+1238,254.71,Fuel,2024-12-17,Net Banking
+1104,96.87,Restaurants,2024-12-18,Net Banking
+1210,456.08,Online Services,2024-12-19,Credit Card
+1042,2232.6,Travel,2024-12-20,Credit Card
+1316,641.77,Groceries,2024-12-21,Credit Card
+1468,917.96,Restaurants,2024-12-22,Credit Card
+1454,308.1,Groceries,2024-12-23,Credit Card
+1268,594.79,Online Services,2024-12-24,Credit Card
+1386,1322.1,Restaurants,2024-12-25,UPI
+1263,1538.99,Shopping,2024-12-26,Credit Card
+1336,651.11,Travel,2024-12-27,Credit Card
+1387,191.44,Online Services,2024-12-28,UPI
+1365,1008.03,Online Services,2024-12-29,Credit Card
+1259,623.8,Travel,2024-12-30,Net Banking
+1283,587.91,Travel,2024-12-31,Net Banking
+1114,2401.66,Shopping,2025-01-01,Credit Card
+1363,1559.94,Online Services,2025-01-02,UPI
+1040,1414.35,Fuel,2025-01-03,Net Banking
+1486,1068.65,Online Services,2025-01-04,UPI
+1417,1100.91,Groceries,2025-01-05,Net Banking
+1220,1375.22,Restaurants,2025-01-06,Credit Card
+1129,1756.25,Restaurants,2025-01-07,UPI
+1008,1770.26,Groceries,2025-01-08,UPI
+1101,470.65,Restaurants,2025-01-09,UPI
+1416,1275.28,Travel,2025-01-10,Net Banking
+1380,1059.3,Restaurants,2025-01-11,Net Banking
+1176,2182.79,Restaurants,2025-01-12,Net Banking
+1107,1596.98,Groceries,2025-01-13,Credit Card
+1101,1354.63,Shopping,2025-01-14,Net Banking
+1260,332.72,Restaurants,2025-01-15,Credit Card
+1478,1533.81,Fuel,2025-01-16,UPI
+1454,337.15,Restaurants,2025-01-17,UPI
+1366,876.16,Shopping,2025-01-18,Credit Card
+1246,399.96,Groceries,2025-01-19,Net Banking
+1275,1745.58,Shopping,2025-01-20,Credit Card
+1032,555.32,Groceries,2025-01-21,UPI
+1137,1010.06,Travel,2025-01-22,UPI
+1012,2244.4,Groceries,2025-01-23,Credit Card
+1395,550.58,Travel,2025-01-24,Net Banking
+1302,1294.12,Travel,2025-01-25,Net Banking
+1375,1077.22,Groceries,2025-01-26,Credit Card
+1016,94.4,Fuel,2025-01-27,Credit Card
+1129,1992.26,Online Services,2025-01-28,Net Banking
+1063,219.16,Groceries,2025-01-29,UPI
+1109,1211.92,Restaurants,2025-01-30,Credit Card
+1375,1423.66,Fuel,2025-01-31,Net Banking
+1021,1589.64,Fuel,2025-02-01,Net Banking
+1158,1737.15,Restaurants,2025-02-02,UPI
+1269,670.52,Online Services,2025-02-03,UPI
+1162,74.45,Fuel,2025-02-04,UPI
+1260,1822.44,Travel,2025-02-05,UPI
+1412,1362.36,Online Services,2025-02-06,UPI
+1102,2098.49,Restaurants,2025-02-07,Credit Card
+1223,2062.4,Online Services,2025-02-08,Net Banking
+1059,2116.15,Groceries,2025-02-09,Credit Card
+1247,1238.48,Online Services,2025-02-10,Credit Card
+1128,867.39,Travel,2025-02-11,Credit Card
+1283,1989.32,Groceries,2025-02-12,Credit Card
+1325,1155.67,Shopping,2025-02-13,Credit Card
+1025,499.43,Restaurants,2025-02-14,UPI
+1131,2144.69,Restaurants,2025-02-15,UPI
+1353,2212.27,Online Services,2025-02-16,Net Banking
+1196,1192.46,Fuel,2025-02-17,Credit Card
+1281,235.46,Groceries,2025-02-18,Net Banking
+1404,1000.17,Shopping,2025-02-19,UPI
+1418,2018.67,Groceries,2025-02-20,UPI
+1154,2259.35,Restaurants,2025-02-21,UPI
+1382,548.51,Groceries,2025-02-22,Credit Card
+1133,214.09,Shopping,2025-02-23,Credit Card
+1227,2199.51,Fuel,2025-02-24,UPI
+1189,1004.04,Online Services,2025-02-25,Net Banking
+1476,1377.31,Travel,2025-02-26,Net Banking
+1477,2421.76,Groceries,2025-02-27,UPI
+1265,213.08,Travel,2025-02-28,Net Banking
+1372,1638.38,Restaurants,2025-03-01,UPI
+1486,231.56,Online Services,2025-03-02,Net Banking
+1434,969.9,Online Services,2025-03-03,UPI
+1134,2019.35,Groceries,2025-03-04,Net Banking
+1211,1112.01,Fuel,2025-03-05,Credit Card
+1060,2493.1,Online Services,2025-03-06,UPI
+1428,1419.7,Groceries,2025-03-07,UPI
+1377,836.85,Groceries,2025-03-08,Net Banking
+1395,589.27,Travel,2025-03-09,UPI
+1450,908.78,Online Services,2025-03-10,UPI
+1431,962.71,Groceries,2025-03-11,UPI
+1364,218.35,Travel,2025-03-12,Credit Card
+1364,955.46,Shopping,2025-03-13,Credit Card
+1457,1187.38,Travel,2025-03-14,Net Banking
+1213,1820.71,Travel,2025-03-15,Credit Card
+1216,1658.99,Groceries,2025-03-16,Net Banking
+1226,1786.48,Restaurants,2025-03-17,Credit Card
+1470,70.49,Restaurants,2025-03-18,Net Banking
+1131,583.29,Fuel,2025-03-19,Credit Card
+1076,1671.13,Restaurants,2025-03-20,Credit Card
+1476,1235.77,Travel,2025-03-21,Net Banking
+1286,63.02,Fuel,2025-03-22,UPI
+1474,2021.01,Groceries,2025-03-23,UPI
+1496,1943.38,Online Services,2025-03-24,Credit Card
+1277,1393.63,Travel,2025-03-25,Net Banking
+1156,212.84,Travel,2025-03-26,UPI
+1248,1927.96,Fuel,2025-03-27,Net Banking
+1218,1480.1,Groceries,2025-03-28,UPI
+1190,1965.8,Shopping,2025-03-29,Net Banking
+1417,1891.78,Travel,2025-03-30,Credit Card
+1469,2017.36,Shopping,2025-03-31,Net Banking
+1163,1319.12,Shopping,2025-04-01,UPI
+1180,393.8,Restaurants,2025-04-02,Credit Card
+1034,1694.34,Groceries,2025-04-03,Net Banking
+1041,1570.16,Shopping,2025-04-04,UPI
+1307,1868.52,Groceries,2025-04-05,Credit Card
+1431,466.21,Restaurants,2025-04-06,Net Banking
+1338,527.69,Groceries,2025-04-07,UPI
+1314,2231.5,Travel,2025-04-08,Net Banking
+1075,1887.45,Shopping,2025-04-09,Net Banking
+1441,2275.16,Groceries,2025-04-10,Credit Card
+1279,1908.85,Online Services,2025-04-11,Credit Card
+1176,1513.03,Groceries,2025-04-12,UPI
+1384,1652.63,Shopping,2025-04-13,Credit Card
+1150,2228.36,Restaurants,2025-04-14,UPI
+1273,1468.08,Restaurants,2025-04-15,Net Banking
+1325,1599.36,Shopping,2025-04-16,Net Banking
+1108,433.37,Travel,2025-04-17,UPI
+1139,1211.11,Travel,2025-04-18,Net Banking
+1350,1805.17,Restaurants,2025-04-19,Credit Card
+1271,713.81,Restaurants,2025-04-20,Net Banking
+1347,545.52,Shopping,2025-04-21,Credit Card
+1419,818.88,Travel,2025-04-22,UPI
+1289,641.68,Restaurants,2025-04-23,UPI
+1212,576.54,Travel,2025-04-24,Net Banking
+1381,1090.88,Restaurants,2025-04-25,Net Banking
+1272,2274.2,Groceries,2025-04-26,Credit Card
+1418,1292.3,Online Services,2025-04-27,Credit Card
+1066,510.4,Fuel,2025-04-28,Net Banking
+1483,238.58,Groceries,2025-04-29,Net Banking
+1424,1755.58,Fuel,2025-04-30,UPI
+1248,987.86,Restaurants,2025-05-01,UPI
+1156,2063.49,Online Services,2025-05-02,UPI
+1047,1665.8,Online Services,2025-05-03,Net Banking
+1423,2000.79,Restaurants,2025-05-04,Net Banking
+1454,716.27,Restaurants,2025-05-05,Net Banking
+1201,1746.28,Travel,2025-05-06,UPI
+1148,696.95,Restaurants,2025-05-07,Net Banking
+1124,2350.72,Shopping,2025-05-08,Credit Card
+1001,1609.12,Restaurants,2025-05-09,Net Banking
+1456,845.05,Shopping,2025-05-10,Net Banking
+1247,710.3,Restaurants,2025-05-11,Net Banking
+1343,517.77,Travel,2025-05-12,Net Banking
+1128,1751.87,Shopping,2025-05-13,Net Banking
+1191,585.85,Groceries,2025-05-14,Credit Card
+1067,1508.49,Shopping,2025-05-15,Credit Card
+1004,698.36,Travel,2025-05-16,Net Banking
+1442,1671.82,Fuel,2025-05-17,UPI
+1409,2046.6,Shopping,2025-05-18,Net Banking
+1303,1956.16,Restaurants,2025-05-19,Net Banking
+1294,1914.09,Restaurants,2025-05-20,Net Banking
+1143,509.92,Fuel,2025-05-21,UPI
+1191,266.54,Travel,2025-05-22,UPI
+1021,1762.42,Online Services,2025-05-23,UPI
+1227,952.45,Restaurants,2025-05-24,Credit Card
+1313,1109.25,Groceries,2025-05-25,UPI
+1117,126.32,Travel,2025-05-26,Credit Card
+1437,685.96,Shopping,2025-05-27,Credit Card
+1302,132.51,Shopping,2025-05-28,UPI
+1500,2204.01,Groceries,2025-05-29,UPI
+1142,646.32,Restaurants,2025-05-30,UPI
+1484,1415.48,Travel,2025-05-31,Credit Card
+1460,145.5,Groceries,2025-06-01,Net Banking
+1401,1683.78,Restaurants,2025-06-02,UPI
+1039,841.42,Travel,2025-06-03,UPI
+1393,2249.9,Shopping,2025-06-04,UPI
+1355,2225.89,Travel,2025-06-05,Credit Card
+1252,846.96,Fuel,2025-06-06,Credit Card
+1333,2257.35,Online Services,2025-06-07,Net Banking
+1207,2490.59,Travel,2025-06-08,UPI
+1210,2072.27,Online Services,2025-06-09,Credit Card
+1115,2119.93,Travel,2025-06-10,Net Banking
+1225,660.07,Online Services,2025-06-11,UPI
+1134,1462.92,Fuel,2025-06-12,Credit Card
+1251,214.78,Shopping,2025-06-13,UPI
+1219,282.55,Restaurants,2025-06-14,UPI
+1407,2497.29,Online Services,2025-06-15,Credit Card
+1443,850.27,Fuel,2025-06-16,Credit Card
+1091,1883.05,Online Services,2025-06-17,Credit Card
+1354,2026.33,Shopping,2025-06-18,UPI
+1376,2152.16,Online Services,2025-06-19,UPI
+1046,2494.19,Fuel,2025-06-20,Net Banking
+1038,641.67,Fuel,2025-06-21,UPI
+1142,148.86,Groceries,2025-06-22,Credit Card
+1100,1057.42,Shopping,2025-06-23,UPI
+1328,368.7,Groceries,2025-06-24,Net Banking
+1190,104.94,Shopping,2025-06-25,Net Banking
+1035,933.05,Online Services,2025-06-26,Credit Card
+1147,1970.16,Fuel,2025-06-27,Credit Card
+1030,1437.14,Groceries,2025-06-28,Net Banking
+1334,816.31,Online Services,2025-06-29,Net Banking
+1084,1653.14,Fuel,2025-06-30,Net Banking
+1369,618.44,Shopping,2025-07-01,Credit Card
+1281,85.23,Fuel,2025-07-02,Net Banking
+1424,1922.67,Online Services,2025-07-03,Net Banking
+1344,1578.17,Groceries,2025-07-04,Credit Card
+1270,1917.64,Groceries,2025-07-05,UPI
+1154,145.4,Fuel,2025-07-06,UPI
+1102,2100.94,Online Services,2025-07-07,Net Banking
+1215,1567.84,Travel,2025-07-08,UPI
+1150,1430.32,Shopping,2025-07-09,UPI
+1432,1580.3,Shopping,2025-07-10,UPI
+1083,2167.86,Online Services,2025-07-11,UPI
+1110,1487.99,Travel,2025-07-12,Net Banking
+1435,1473.33,Groceries,2025-07-13,UPI
+1387,2477.16,Restaurants,2025-07-14,UPI
+1426,1903.99,Restaurants,2025-07-15,Credit Card
+1275,1133.62,Online Services,2025-07-16,Net Banking
+1201,1783.12,Travel,2025-07-17,Credit Card
+1284,1003.61,Travel,2025-07-18,Credit Card
+1468,610.74,Shopping,2025-07-19,Net Banking
+1173,1512.29,Groceries,2025-07-20,UPI
+1327,2324.05,Fuel,2025-07-21,Credit Card
+1206,2326.39,Travel,2025-07-22,Net Banking
+1063,887.67,Fuel,2025-07-23,UPI
+1073,1342.81,Restaurants,2025-07-24,Net Banking
+1251,568.51,Fuel,2025-07-25,Credit Card
+1124,2489.3,Groceries,2025-07-26,UPI
+1375,2453.74,Groceries,2025-07-27,UPI
+1121,1641.3,Fuel,2025-07-28,Net Banking
+1275,2020.81,Online Services,2025-07-29,UPI
+1431,1802.0,Travel,2025-07-30,Credit Card
+1500,1503.24,Online Services,2025-07-31,Credit Card
+1398,180.7,Fuel,2025-08-01,Credit Card
+1120,1164.17,Travel,2025-08-02,Net Banking
+1422,1703.23,Shopping,2025-08-03,UPI
+1437,1709.95,Online Services,2025-08-04,UPI
+1317,964.15,Online Services,2025-08-05,UPI
+1164,2357.15,Fuel,2025-08-06,Credit Card
+1424,460.02,Restaurants,2025-08-07,UPI
+1465,1275.88,Fuel,2025-08-08,Credit Card
+1286,1742.67,Online Services,2025-08-09,UPI
+1265,1757.98,Travel,2025-08-10,Credit Card
+1320,1639.17,Restaurants,2025-08-11,UPI
+1161,724.46,Fuel,2025-08-12,Net Banking
+1376,432.71,Fuel,2025-08-13,Net Banking
+1308,1608.05,Online Services,2025-08-14,Credit Card
+1089,1518.29,Online Services,2025-08-15,Credit Card
+1142,489.42,Shopping,2025-08-16,UPI
+1203,1777.59,Fuel,2025-08-17,UPI
+1309,1165.17,Online Services,2025-08-18,Net Banking
+1227,1686.01,Groceries,2025-08-19,UPI
+1489,2101.55,Restaurants,2025-08-20,Credit Card
+1443,465.83,Groceries,2025-08-21,Credit Card
+1334,96.9,Restaurants,2025-08-22,Credit Card
+1222,1958.8,Fuel,2025-08-23,Credit Card
+1041,1543.76,Shopping,2025-08-24,Credit Card
+1196,1764.12,Online Services,2025-08-25,Net Banking
+1068,2103.48,Online Services,2025-08-26,Net Banking
+1476,2016.89,Online Services,2025-08-27,Credit Card
+1264,2404.25,Fuel,2025-08-28,UPI
+1002,1363.04,Restaurants,2025-08-29,Credit Card
+1361,1246.81,Online Services,2025-08-30,Net Banking
+1125,1034.62,Groceries,2025-08-31,Credit Card
+1110,426.54,Online Services,2025-09-01,Net Banking
+1086,1452.89,Fuel,2025-09-02,Net Banking
+1425,728.68,Shopping,2025-09-03,Credit Card
+1120,2307.2,Groceries,2025-09-04,Credit Card
+1127,1478.82,Online Services,2025-09-05,UPI
+1255,1502.46,Online Services,2025-09-06,Net Banking
+1183,919.57,Travel,2025-09-07,UPI
+1016,177.37,Restaurants,2025-09-08,Credit Card
+1477,127.77,Groceries,2025-09-09,Net Banking
+1062,1087.17,Travel,2025-09-10,UPI
+1369,257.19,Shopping,2025-09-11,UPI
+1432,1536.78,Restaurants,2025-09-12,UPI
+1158,2208.38,Groceries,2025-09-13,Credit Card
+1268,2213.14,Online Services,2025-09-14,Credit Card
+1035,1664.66,Groceries,2025-09-15,Credit Card
+1267,567.52,Online Services,2025-09-16,Net Banking
+1064,2164.34,Restaurants,2025-09-17,Credit Card
+1494,2220.93,Online Services,2025-09-18,Net Banking
+1050,531.8,Shopping,2025-09-19,UPI
+1469,1856.69,Fuel,2025-09-20,UPI
+1255,751.97,Online Services,2025-09-21,Credit Card
+1149,2016.47,Shopping,2025-09-22,UPI
+1325,2493.23,Fuel,2025-09-23,Credit Card
+1304,123.56,Restaurants,2025-09-24,Net Banking
+1276,2248.55,Restaurants,2025-09-25,UPI
+1357,1575.44,Groceries,2025-09-26,Credit Card
+1451,2434.79,Shopping,2025-09-27,UPI
+1172,1189.27,Shopping,2025-09-28,UPI
+1417,2126.1,Travel,2025-09-29,Credit Card
+1201,202.87,Travel,2025-09-30,UPI
+1445,871.43,Fuel,2025-10-01,UPI
+1393,214.19,Fuel,2025-10-02,UPI
+1324,2439.59,Travel,2025-10-03,UPI
+1035,2051.59,Fuel,2025-10-04,Net Banking
+1465,2138.74,Online Services,2025-10-05,UPI
+1482,2348.01,Travel,2025-10-06,UPI
+1216,258.5,Shopping,2025-10-07,Credit Card
+1480,994.71,Online Services,2025-10-08,Net Banking
+1065,224.04,Fuel,2025-10-09,Credit Card
+1008,566.44,Restaurants,2025-10-10,Credit Card
+1301,611.95,Groceries,2025-10-11,Credit Card
+1343,1199.31,Travel,2025-10-12,Net Banking
+1431,707.98,Restaurants,2025-10-13,Credit Card
+1424,297.4,Fuel,2025-10-14,Credit Card
+1332,460.35,Shopping,2025-10-15,Credit Card
+1438,410.83,Groceries,2025-10-16,UPI
+1076,2434.04,Restaurants,2025-10-17,Credit Card
+1174,1910.27,Groceries,2025-10-18,Net Banking
+1047,2421.02,Travel,2025-10-19,Net Banking
+1015,1127.36,Fuel,2025-10-20,UPI
+1361,732.0,Shopping,2025-10-21,Net Banking
+1147,2005.82,Fuel,2025-10-22,Net Banking
+1026,849.32,Groceries,2025-10-23,UPI
+1308,783.49,Restaurants,2025-10-24,Credit Card
+1093,619.64,Travel,2025-10-25,UPI
+1406,367.71,Travel,2025-10-26,Credit Card
+1232,678.33,Fuel,2025-10-27,Credit Card
+1021,920.53,Restaurants,2025-10-28,Net Banking
+1307,1701.29,Restaurants,2025-10-29,UPI
+1038,203.28,Groceries,2025-10-30,Net Banking
+1276,565.74,Fuel,2025-10-31,Net Banking
+1157,2032.11,Fuel,2025-11-01,Credit Card
+1179,409.96,Online Services,2025-11-02,Net Banking
+1132,889.48,Fuel,2025-11-03,UPI
+1311,2168.41,Travel,2025-11-04,Net Banking
+1455,429.57,Groceries,2025-11-05,Net Banking
+1348,252.71,Restaurants,2025-11-06,Credit Card
+1028,1237.12,Fuel,2025-11-07,UPI
+1260,790.93,Groceries,2025-11-08,Net Banking
+1406,1430.35,Fuel,2025-11-09,Credit Card
+1076,2019.32,Restaurants,2025-11-10,Net Banking
+1429,386.01,Shopping,2025-11-11,UPI
+1067,1472.71,Restaurants,2025-11-12,Net Banking
+1342,1288.5,Restaurants,2025-11-13,Net Banking
+1492,402.99,Restaurants,2025-11-14,Credit Card
+1194,1578.8,Fuel,2025-11-15,Net Banking
+1472,720.42,Online Services,2025-11-16,Credit Card
+1162,1245.19,Restaurants,2025-11-17,UPI
+1347,251.57,Travel,2025-11-18,Net Banking
+1439,1175.98,Travel,2025-11-19,UPI
+1361,800.84,Groceries,2025-11-20,UPI
+1257,2064.83,Online Services,2025-11-21,Net Banking
+1072,189.6,Groceries,2025-11-22,Credit Card
+1087,1075.59,Travel,2025-11-23,UPI
+1422,1173.16,Travel,2025-11-24,UPI
+1262,1826.26,Shopping,2025-11-25,Net Banking
+1214,1457.0,Restaurants,2025-11-26,Net Banking
+1153,1684.67,Travel,2025-11-27,Net Banking
+1210,1953.77,Fuel,2025-11-28,Net Banking
+1401,2162.4,Fuel,2025-11-29,Net Banking
+1061,818.99,Groceries,2025-11-30,Net Banking
+1268,1368.16,Groceries,2025-12-01,Credit Card
+1262,2108.26,Restaurants,2025-12-02,UPI
+1218,2474.16,Restaurants,2025-12-03,Credit Card
+1283,2229.32,Shopping,2025-12-04,Credit Card
+1136,960.09,Online Services,2025-12-05,Net Banking
+1467,528.16,Groceries,2025-12-06,UPI
+1380,1249.01,Restaurants,2025-12-07,Credit Card
+1362,1867.02,Groceries,2025-12-08,Net Banking
+1449,1256.79,Restaurants,2025-12-09,Net Banking
+1441,1233.79,Travel,2025-12-10,UPI
+1093,2103.66,Groceries,2025-12-11,Credit Card
+1109,935.44,Travel,2025-12-12,Credit Card
+1241,2156.5,Groceries,2025-12-13,Credit Card
+1355,1046.67,Online Services,2025-12-14,Net Banking
+1424,854.17,Shopping,2025-12-15,UPI
+1142,1162.28,Fuel,2025-12-16,UPI
+1291,1918.0,Fuel,2025-12-17,Credit Card
+1432,358.7,Fuel,2025-12-18,Net Banking
+1237,531.23,Travel,2025-12-19,Credit Card
+1340,2381.04,Restaurants,2025-12-20,UPI
+1312,479.95,Fuel,2025-12-21,Net Banking
+1177,1440.93,Online Services,2025-12-22,Credit Card
+1141,1469.32,Fuel,2025-12-23,Credit Card
+1189,1249.58,Groceries,2025-12-24,Net Banking
+1486,1629.63,Travel,2025-12-25,UPI
+1049,613.08,Groceries,2025-12-26,Net Banking
+1302,1404.02,Groceries,2025-12-27,Credit Card
+1369,961.82,Groceries,2025-12-28,Credit Card
+1190,1671.08,Shopping,2025-12-29,Credit Card
+1136,396.0,Shopping,2025-12-30,Credit Card
+1043,1448.65,Restaurants,2025-12-31,UPI
+1404,503.91,Travel,2026-01-01,UPI
+1380,732.68,Online Services,2026-01-02,Credit Card
+1353,585.84,Online Services,2026-01-03,UPI
+1090,497.95,Online Services,2026-01-04,UPI
+1295,2072.99,Groceries,2026-01-05,UPI
+1341,749.98,Shopping,2026-01-06,Credit Card
+1245,2321.45,Travel,2026-01-07,Net Banking
+1433,2426.32,Groceries,2026-01-08,Net Banking
+1192,1449.59,Shopping,2026-01-09,Net Banking
+1318,400.35,Shopping,2026-01-10,Credit Card
+1106,967.64,Fuel,2026-01-11,UPI
+1363,2004.44,Fuel,2026-01-12,UPI
+1310,950.11,Travel,2026-01-13,Credit Card
+1382,263.19,Travel,2026-01-14,Credit Card
+1233,1414.12,Travel,2026-01-15,Net Banking
+1265,2120.55,Groceries,2026-01-16,Net Banking
+1344,2000.02,Restaurants,2026-01-17,Credit Card
+1037,479.05,Travel,2026-01-18,Net Banking
+1305,1698.27,Fuel,2026-01-19,UPI
+1041,590.24,Restaurants,2026-01-20,Credit Card
+1017,584.61,Groceries,2026-01-21,Credit Card
+1344,2191.48,Restaurants,2026-01-22,UPI
+1277,661.69,Online Services,2026-01-23,UPI
+1307,694.96,Restaurants,2026-01-24,UPI
+1059,51.6,Travel,2026-01-25,Net Banking
+1423,2183.14,Groceries,2026-01-26,Credit Card
+1183,1991.86,Travel,2026-01-27,Net Banking
+1041,1586.96,Fuel,2026-01-28,UPI
+1039,1888.15,Online Services,2026-01-29,Net Banking
+1397,422.52,Fuel,2026-01-30,UPI
+1192,1172.89,Travel,2026-01-31,Net Banking
+1267,910.49,Travel,2026-02-01,Net Banking
+1494,279.75,Travel,2026-02-02,UPI
+1147,1241.02,Shopping,2026-02-03,Net Banking
+1395,2305.81,Online Services,2026-02-04,Credit Card
+1333,148.14,Travel,2026-02-05,Net Banking
+1127,764.08,Travel,2026-02-06,Net Banking
+1046,558.48,Fuel,2026-02-07,Credit Card
+1045,633.46,Fuel,2026-02-08,UPI
+1001,2275.66,Travel,2026-02-09,Credit Card
+1168,1196.77,Groceries,2026-02-10,Net Banking
+1108,1192.43,Shopping,2026-02-11,UPI
+1019,1913.41,Fuel,2026-02-12,Net Banking
+1332,428.51,Groceries,2026-02-13,Net Banking
+1072,1243.8,Shopping,2026-02-14,Credit Card
+1456,1103.46,Travel,2026-02-15,Credit Card
+1445,1512.43,Online Services,2026-02-16,UPI
+1109,2498.92,Restaurants,2026-02-17,UPI
+1268,1935.15,Restaurants,2026-02-18,UPI
+1445,1024.77,Travel,2026-02-19,Net Banking
+1240,2077.5,Fuel,2026-02-20,Credit Card
+1417,468.24,Groceries,2026-02-21,Credit Card
+1301,124.64,Online Services,2026-02-22,Credit Card
+1090,550.9,Shopping,2026-02-23,UPI
+1103,884.01,Travel,2026-02-24,Credit Card
+1476,1300.92,Online Services,2026-02-25,Credit Card
+1250,1557.07,Online Services,2026-02-26,Credit Card
+1453,2280.98,Fuel,2026-02-27,UPI
+1008,1299.14,Shopping,2026-02-28,Credit Card
+1153,1278.13,Online Services,2026-03-01,UPI
+1347,173.1,Fuel,2026-03-02,Credit Card
+1174,135.53,Groceries,2026-03-03,Credit Card
+1343,1400.34,Fuel,2026-03-04,Credit Card
+1158,1123.54,Groceries,2026-03-05,UPI
+1493,2105.99,Groceries,2026-03-06,UPI
+1431,443.66,Online Services,2026-03-07,Credit Card
+1215,111.18,Fuel,2026-03-08,Net Banking
+1177,1150.14,Groceries,2026-03-09,UPI
+1175,631.82,Shopping,2026-03-10,UPI
+1340,171.56,Online Services,2026-03-11,Credit Card
+1338,1825.27,Fuel,2026-03-12,Net Banking
+1146,323.4,Fuel,2026-03-13,Credit Card
+1450,1540.38,Restaurants,2026-03-14,UPI
+1324,738.57,Fuel,2026-03-15,UPI
+1478,475.07,Online Services,2026-03-16,Credit Card
+1161,980.39,Shopping,2026-03-17,Credit Card
+1127,2013.54,Fuel,2026-03-18,Net Banking
+1420,1010.63,Restaurants,2026-03-19,Net Banking
+1082,1889.39,Online Services,2026-03-20,UPI
+1485,357.44,Groceries,2026-03-21,Net Banking
+1147,1943.29,Travel,2026-03-22,Net Banking
+1239,630.49,Travel,2026-03-23,UPI
+1412,1709.61,Groceries,2026-03-24,UPI
+1424,1436.16,Fuel,2026-03-25,UPI
+1084,2326.4,Travel,2026-03-26,UPI
+1113,998.94,Travel,2026-03-27,Credit Card
+1225,212.1,Groceries,2026-03-28,UPI
+1332,96.93,Fuel,2026-03-29,UPI
+1378,2075.8,Fuel,2026-03-30,UPI
+1243,1335.6,Groceries,2026-03-31,Net Banking
+1143,1949.35,Fuel,2026-04-01,UPI
+1041,624.34,Fuel,2026-04-02,Credit Card
+1423,895.46,Online Services,2026-04-03,Credit Card
+1258,123.75,Online Services,2026-04-04,UPI
+1447,2405.66,Groceries,2026-04-05,Credit Card
+1285,1686.28,Shopping,2026-04-06,Net Banking
+1105,2336.35,Travel,2026-04-07,UPI
+1202,700.47,Online Services,2026-04-08,Credit Card
+1450,1548.09,Travel,2026-04-09,Credit Card
+1307,1712.32,Restaurants,2026-04-10,UPI
+1331,828.0,Groceries,2026-04-11,Credit Card
+1461,2127.87,Shopping,2026-04-12,UPI
+1266,2370.55,Restaurants,2026-04-13,Credit Card
+1398,2217.9,Restaurants,2026-04-14,Net Banking
+1210,1860.71,Fuel,2026-04-15,Credit Card
+1051,729.79,Restaurants,2026-04-16,Credit Card
+1118,739.96,Groceries,2026-04-17,UPI
+1201,2410.23,Online Services,2026-04-18,Credit Card
+1377,75.2,Groceries,2026-04-19,UPI
+1039,1804.32,Online Services,2026-04-20,Net Banking
+1028,1780.3,Restaurants,2026-04-21,UPI
+1259,1575.59,Restaurants,2026-04-22,UPI
+1084,2475.77,Shopping,2026-04-23,Credit Card
+1454,814.1,Online Services,2026-04-24,Net Banking
+1155,882.93,Restaurants,2026-04-25,UPI
+1117,243.4,Fuel,2026-04-26,Credit Card
+1002,1134.86,Travel,2026-04-27,Credit Card
+1093,689.57,Shopping,2026-04-28,UPI
+1166,891.3,Groceries,2026-04-29,Credit Card
+1387,2094.7,Shopping,2026-04-30,UPI
+1400,2341.94,Travel,2026-05-01,UPI
+1350,505.05,Online Services,2026-05-02,UPI
+1296,962.65,Groceries,2026-05-03,Net Banking
+1258,2325.14,Groceries,2026-05-04,UPI
+1081,201.43,Online Services,2026-05-05,Credit Card
+1425,276.28,Shopping,2026-05-06,Net Banking
+1268,448.84,Restaurants,2026-05-07,Credit Card
+1419,1508.27,Shopping,2026-05-08,Net Banking
+1235,418.66,Travel,2026-05-09,Net Banking
+1321,2421.79,Fuel,2026-05-10,Net Banking
+1311,1144.45,Restaurants,2026-05-11,Net Banking
+1301,1278.72,Shopping,2026-05-12,Credit Card
+1463,654.31,Fuel,2026-05-13,UPI
+1474,1203.85,Fuel,2026-05-14,Credit Card
+1357,1671.69,Online Services,2026-05-15,UPI
+1213,1890.38,Travel,2026-05-16,Credit Card
+1062,1896.98,Travel,2026-05-17,Net Banking
+1049,1465.83,Travel,2026-05-18,Net Banking
+1127,2265.68,Restaurants,2026-05-19,UPI
+1223,2052.65,Groceries,2026-05-20,UPI
+1409,1904.77,Restaurants,2026-05-21,Credit Card
+1279,186.23,Shopping,2026-05-22,UPI
+1408,66.85,Fuel,2026-05-23,Credit Card
+1294,570.5,Fuel,2026-05-24,UPI
+1284,1675.63,Groceries,2026-05-25,UPI
+1277,1057.43,Shopping,2026-05-26,UPI
+1438,1035.9,Groceries,2026-05-27,Net Banking
+1107,2217.24,Fuel,2026-05-28,Net Banking
+1146,2244.13,Restaurants,2026-05-29,Credit Card
+1420,2277.48,Travel,2026-05-30,UPI
+1099,819.0,Fuel,2026-05-31,Credit Card
+1429,1743.09,Online Services,2026-06-01,UPI
+1375,715.5,Travel,2026-06-02,Net Banking
+1073,516.99,Fuel,2026-06-03,Net Banking
+1437,502.35,Restaurants,2026-06-04,UPI
+1486,888.16,Groceries,2026-06-05,UPI
+1122,1103.4,Travel,2026-06-06,Net Banking
+1030,2085.83,Restaurants,2026-06-07,Net Banking
+1188,343.73,Shopping,2026-06-08,Credit Card
+1364,1850.57,Online Services,2026-06-09,Net Banking
+1354,1352.06,Travel,2026-06-10,UPI
+1288,755.47,Groceries,2026-06-11,Credit Card
+1451,1257.41,Shopping,2026-06-12,UPI
+1195,784.86,Restaurants,2026-06-13,Credit Card
+1156,1510.4,Online Services,2026-06-14,UPI
+1172,1112.92,Groceries,2026-06-15,Net Banking
+1335,452.79,Restaurants,2026-06-16,UPI
+1041,335.63,Restaurants,2026-06-17,Credit Card
+1063,1389.4,Travel,2026-06-18,UPI
+1023,2260.91,Travel,2026-06-19,Credit Card
+1360,892.7,Groceries,2026-06-20,UPI
+1075,1845.85,Fuel,2026-06-21,Net Banking
+1048,1663.72,Fuel,2026-06-22,Net Banking
+1160,2332.31,Restaurants,2026-06-23,UPI
+1313,2061.4,Travel,2026-06-24,UPI
+1118,1438.18,Online Services,2026-06-25,UPI
+1100,1659.72,Online Services,2026-06-26,Credit Card
+1380,2251.05,Restaurants,2026-06-27,UPI
+1417,1028.82,Travel,2026-06-28,UPI
+1408,850.65,Groceries,2026-06-29,Credit Card
+1167,76.49,Groceries,2026-06-30,Net Banking
+1290,2075.05,Groceries,2026-07-01,UPI
+1440,2012.4,Online Services,2026-07-02,UPI
+1156,305.91,Travel,2026-07-03,Net Banking
+1421,1463.3,Travel,2026-07-04,Net Banking
+1007,1186.76,Online Services,2026-07-05,Credit Card
+1196,340.84,Groceries,2026-07-06,UPI
+1421,2452.39,Groceries,2026-07-07,UPI
+1056,576.0,Restaurants,2026-07-08,Credit Card
+1321,214.72,Fuel,2026-07-09,Net Banking
+1193,1507.38,Shopping,2026-07-10,Credit Card
+1047,1860.22,Fuel,2026-07-11,Net Banking
+1148,129.49,Travel,2026-07-12,Credit Card
+1275,1663.86,Travel,2026-07-13,Net Banking
+1157,1354.12,Travel,2026-07-14,Credit Card
+1202,303.0,Fuel,2026-07-15,Net Banking
+1444,472.68,Shopping,2026-07-16,Net Banking
+1402,1441.54,Restaurants,2026-07-17,Net Banking
+1476,776.08,Fuel,2026-07-18,Net Banking
+1419,2348.87,Shopping,2026-07-19,Net Banking
+1427,2055.91,Groceries,2026-07-20,UPI
+1495,2459.74,Groceries,2026-07-21,Net Banking
+1479,686.19,Travel,2026-07-22,UPI
+1475,2425.82,Online Services,2026-07-23,Net Banking
+1126,1106.52,Travel,2026-07-24,UPI
+1395,901.42,Online Services,2026-07-25,UPI
+1305,173.36,Shopping,2026-07-26,Credit Card
+1369,179.27,Groceries,2026-07-27,Net Banking
+1294,1745.43,Fuel,2026-07-28,Credit Card
+1064,1171.93,Online Services,2026-07-29,Credit Card
+1325,604.98,Shopping,2026-07-30,Net Banking
+1392,1554.23,Groceries,2026-07-31,Credit Card
+1418,669.5,Fuel,2026-08-01,Net Banking
+1176,1465.2,Online Services,2026-08-02,Credit Card
+1116,930.06,Travel,2026-08-03,Net Banking
+1440,2067.7,Travel,2026-08-04,Net Banking
+1204,2060.71,Travel,2026-08-05,Net Banking
+1486,1219.51,Shopping,2026-08-06,UPI
+1321,909.51,Travel,2026-08-07,Credit Card
+1031,938.27,Restaurants,2026-08-08,UPI
+1388,2024.0,Groceries,2026-08-09,Credit Card
+1113,854.04,Shopping,2026-08-10,Credit Card
+1365,562.2,Fuel,2026-08-11,Credit Card
+1434,257.49,Travel,2026-08-12,UPI
+1325,1193.4,Groceries,2026-08-13,Credit Card
+1414,1231.22,Online Services,2026-08-14,UPI
+1376,2110.23,Travel,2026-08-15,Net Banking
+1344,592.03,Groceries,2026-08-16,Credit Card
+1443,983.43,Restaurants,2026-08-17,Credit Card
+1067,2030.59,Online Services,2026-08-18,Net Banking
+1075,2067.88,Restaurants,2026-08-19,Net Banking
+1045,992.3,Fuel,2026-08-20,Credit Card
+1260,1174.85,Groceries,2026-08-21,Net Banking
+1154,793.05,Restaurants,2026-08-22,UPI
+1155,2334.76,Fuel,2026-08-23,UPI
+1430,340.68,Groceries,2026-08-24,Credit Card
+1363,2337.69,Groceries,2026-08-25,UPI
+1448,1725.47,Restaurants,2026-08-26,UPI
+1475,1352.35,Groceries,2026-08-27,Credit Card
+1234,130.01,Travel,2026-08-28,Net Banking
+1051,1215.21,Groceries,2026-08-29,Credit Card
+1306,1048.98,Shopping,2026-08-30,UPI
+1262,444.99,Fuel,2026-08-31,Credit Card
+1315,1658.2,Groceries,2026-09-01,Credit Card
+1125,2429.32,Shopping,2026-09-02,UPI
+1399,1427.36,Groceries,2026-09-03,UPI
+1245,1801.15,Groceries,2026-09-04,Credit Card
+1030,217.7,Restaurants,2026-09-05,UPI
+1426,1073.28,Travel,2026-09-06,UPI
+1485,335.08,Fuel,2026-09-07,UPI
+1122,1551.35,Travel,2026-09-08,UPI
+1125,2349.28,Online Services,2026-09-09,UPI
+1037,1671.36,Restaurants,2026-09-10,UPI
+1170,238.17,Restaurants,2026-09-11,Net Banking
+1124,918.93,Travel,2026-09-12,Credit Card
+1357,1399.13,Restaurants,2026-09-13,UPI
+1035,1037.86,Travel,2026-09-14,Credit Card
+1087,2092.43,Restaurants,2026-09-15,Net Banking
+1134,2045.94,Groceries,2026-09-16,UPI
+1196,1548.99,Travel,2026-09-17,Credit Card
+1274,964.97,Travel,2026-09-18,UPI
+1201,675.57,Shopping,2026-09-19,UPI
+1369,309.39,Restaurants,2026-09-20,UPI
+1285,919.5,Restaurants,2026-09-21,UPI
+1077,1062.27,Travel,2026-09-22,UPI
+1059,1705.77,Groceries,2026-09-23,UPI
+1431,1662.49,Groceries,2026-09-24,UPI
+1126,221.76,Fuel,2026-09-25,Net Banking
+1500,1018.39,Groceries,2026-09-26,Net Banking
+1401,495.36,Restaurants,2026-09-27,UPI
+1109,434.19,Shopping,2026-09-28,UPI
+1224,2076.89,Travel,2026-09-29,Net Banking
+1496,152.69,Online Services,2026-09-30,Net Banking
+1278,1077.0,Shopping,2026-10-01,Net Banking
+1068,462.1,Online Services,2026-10-02,UPI
+1069,2204.36,Shopping,2026-10-03,Credit Card
+1165,1414.75,Groceries,2026-10-04,Credit Card
+1489,616.88,Restaurants,2026-10-05,Credit Card
+1305,1280.95,Online Services,2026-10-06,Credit Card
+1397,1842.14,Shopping,2026-10-07,UPI
+1162,2397.39,Restaurants,2026-10-08,Credit Card
+1365,590.09,Online Services,2026-10-09,Net Banking
+1342,2221.15,Travel,2026-10-10,Net Banking
+1309,2339.05,Shopping,2026-10-11,Credit Card
+1379,2295.23,Travel,2026-10-12,Net Banking
+1343,1606.77,Groceries,2026-10-13,UPI
+1435,1593.06,Travel,2026-10-14,Credit Card
+1387,1037.87,Travel,2026-10-15,Credit Card
+1042,1893.37,Fuel,2026-10-16,UPI
+1354,1351.67,Shopping,2026-10-17,Net Banking
+1416,1709.72,Groceries,2026-10-18,UPI
+1109,1099.72,Travel,2026-10-19,UPI
+1051,1842.17,Restaurants,2026-10-20,Net Banking
+1250,2069.96,Online Services,2026-10-21,UPI
+1497,408.77,Travel,2026-10-22,Net Banking
+1341,2090.68,Groceries,2026-10-23,Net Banking
+1430,1373.73,Travel,2026-10-24,UPI
+1383,2119.43,Online Services,2026-10-25,Net Banking
+1492,1106.69,Groceries,2026-10-26,UPI
+1021,978.65,Shopping,2026-10-27,Net Banking
+1300,2291.9,Groceries,2026-10-28,Credit Card
+1139,665.36,Shopping,2026-10-29,Net Banking
+1359,2118.32,Groceries,2026-10-30,Net Banking
+1324,1235.85,Online Services,2026-10-31,UPI
+1499,1309.53,Online Services,2026-11-01,Net Banking
+1385,805.75,Groceries,2026-11-02,Credit Card
+1092,1453.95,Travel,2026-11-03,Credit Card
+1447,846.77,Online Services,2026-11-04,Net Banking
+1280,146.21,Shopping,2026-11-05,Net Banking
+1125,716.4,Shopping,2026-11-06,Credit Card
+1483,65.63,Restaurants,2026-11-07,UPI
+1397,2446.97,Fuel,2026-11-08,Credit Card
+1111,2416.08,Fuel,2026-11-09,Credit Card
+1354,1018.13,Fuel,2026-11-10,Net Banking
+1139,1834.51,Shopping,2026-11-11,Net Banking
+1484,897.22,Restaurants,2026-11-12,Credit Card
+1435,1694.18,Fuel,2026-11-13,UPI
+1273,2023.3,Fuel,2026-11-14,Credit Card
+1099,2369.55,Groceries,2026-11-15,Credit Card
+1252,1030.52,Groceries,2026-11-16,UPI
+1338,1969.08,Groceries,2026-11-17,Credit Card
+1104,701.52,Travel,2026-11-18,Credit Card
+1214,2476.31,Fuel,2026-11-19,Net Banking
+1249,113.14,Travel,2026-11-20,UPI
+1152,1528.65,Restaurants,2026-11-21,Net Banking
+1250,1665.79,Shopping,2026-11-22,Net Banking
+1275,1735.71,Fuel,2026-11-23,UPI
+1165,344.95,Shopping,2026-11-24,UPI
+1487,2349.4,Groceries,2026-11-25,Credit Card
+1341,493.9,Fuel,2026-11-26,Net Banking
+1008,1575.75,Online Services,2026-11-27,UPI
+1284,595.56,Travel,2026-11-28,Net Banking
+1005,802.68,Travel,2026-11-29,Net Banking
+1145,1388.82,Fuel,2026-11-30,UPI
+1101,1072.12,Groceries,2026-12-01,Credit Card
+1164,442.55,Travel,2026-12-02,Net Banking
+1374,468.79,Groceries,2026-12-03,UPI
+1147,1074.45,Restaurants,2026-12-04,Credit Card
+1064,1905.34,Shopping,2026-12-05,Net Banking
+1091,2250.01,Online Services,2026-12-06,UPI
+1117,256.11,Shopping,2026-12-07,Net Banking
+1354,1013.1,Shopping,2026-12-08,UPI
+1267,295.6,Restaurants,2026-12-09,UPI
+1310,90.65,Travel,2026-12-10,Net Banking
+1173,1671.21,Online Services,2026-12-11,Net Banking
+1047,1526.0,Travel,2026-12-12,UPI
+1140,449.4,Fuel,2026-12-13,Credit Card
+1246,622.84,Shopping,2026-12-14,Net Banking
+1149,108.08,Fuel,2026-12-15,UPI
+1246,2095.62,Groceries,2026-12-16,UPI
+1395,2437.99,Shopping,2026-12-17,Credit Card
+1487,381.88,Travel,2026-12-18,Credit Card
+1476,617.11,Shopping,2026-12-19,Credit Card
+1005,2177.6,Groceries,2026-12-20,Net Banking
+1465,2319.84,Restaurants,2026-12-21,UPI
+1184,1078.09,Fuel,2026-12-22,UPI
+1020,174.03,Fuel,2026-12-23,UPI
+1425,146.51,Travel,2026-12-24,Credit Card
+1046,1456.18,Shopping,2026-12-25,UPI
+1012,1012.59,Travel,2026-12-26,Net Banking
+1070,120.2,Restaurants,2026-12-27,Credit Card
+1017,1478.97,Shopping,2026-12-28,Credit Card
+1371,77.69,Shopping,2026-12-29,Credit Card
+1147,1979.06,Travel,2026-12-30,Credit Card
+1154,800.76,Travel,2026-12-31,Net Banking
+1304,148.63,Groceries,2027-01-01,UPI
+1108,1491.46,Restaurants,2027-01-02,Net Banking
+1236,1024.33,Groceries,2027-01-03,UPI
+1308,2435.81,Fuel,2027-01-04,Net Banking
+1352,1383.29,Shopping,2027-01-05,Credit Card
+1070,724.34,Travel,2027-01-06,Credit Card
+1183,1788.13,Shopping,2027-01-07,Net Banking
+1250,715.16,Shopping,2027-01-08,Net Banking
+1228,2265.4,Online Services,2027-01-09,UPI
+1102,968.07,Fuel,2027-01-10,Net Banking
+1075,1397.18,Online Services,2027-01-11,Net Banking
+1417,173.9,Shopping,2027-01-12,UPI
+1446,1094.0,Travel,2027-01-13,UPI
+1216,2089.29,Shopping,2027-01-14,UPI
+1407,2023.84,Fuel,2027-01-15,Net Banking
+1399,599.58,Online Services,2027-01-16,UPI
+1411,603.89,Travel,2027-01-17,Credit Card
+1203,2052.4,Shopping,2027-01-18,Credit Card
+1192,2329.48,Restaurants,2027-01-19,Credit Card
+1249,283.63,Fuel,2027-01-20,Net Banking
+1499,1152.64,Fuel,2027-01-21,Credit Card
+1242,876.76,Restaurants,2027-01-22,Net Banking
+1465,2183.19,Shopping,2027-01-23,Net Banking
+1179,254.64,Fuel,2027-01-24,Credit Card
+1437,567.26,Travel,2027-01-25,UPI
+1462,1893.55,Shopping,2027-01-26,Net Banking
+1219,175.67,Shopping,2027-01-27,Credit Card
+1082,1256.71,Online Services,2027-01-28,Net Banking
+1092,1133.16,Fuel,2027-01-29,UPI
+1435,869.28,Fuel,2027-01-30,UPI
+1175,1016.7,Restaurants,2027-01-31,Credit Card
+1239,1348.35,Online Services,2027-02-01,Net Banking
+1260,445.35,Online Services,2027-02-02,Net Banking
+1391,1451.39,Fuel,2027-02-03,Net Banking
+1365,2023.31,Shopping,2027-02-04,Net Banking
+1163,1912.39,Online Services,2027-02-05,Credit Card
+1048,427.05,Restaurants,2027-02-06,UPI
+1329,415.66,Online Services,2027-02-07,Credit Card
+1328,707.03,Restaurants,2027-02-08,Net Banking
